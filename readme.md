@@ -39,6 +39,6 @@ This repo contains Challenge-1: WordPress Theme Challenge.
 
 # Screenshot of custom theme option
 
-<img src="https://vikas-rtcamp.000webhostapp.com/screenshots/complete-page.png alt="complete-view" />
+<img src="https://vikas-rtcamp.000webhostapp.com/screenshots/complete-page.png" alt="complete-view" />
 
 
