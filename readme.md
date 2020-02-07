@@ -35,8 +35,10 @@ This repo contains Challenge-1: WordPress Theme Challenge.
 
 # Demo link of my WordPress Theme Challenge Assignment
 
-<a href="https://vikas-rtcamp.000webhostapp.com/"></a>
+<a href="https://vikas-rtcamp.000webhostapp.com/">https://vikas-rtcamp.000webhostapp.com</a>
 
 # Screenshot of custom theme option
+
+<img src="https://vikas-rtcamp.000webhostapp.com/screenshots/complete-page.png alt="complete-view" />
 
 
