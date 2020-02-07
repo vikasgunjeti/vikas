@@ -39,6 +39,18 @@ This repo contains Challenge-1: WordPress Theme Challenge.
 
 # Screenshot of custom theme option
 
+1. Complete Home Page
+
 <img src="https://vikas-rtcamp.000webhostapp.com/screenshots/complete-page.png" alt="complete-view" />
+
+2. Custom theme option
+
+<img src="https://vikas-rtcamp.000webhostapp.com/screenshots/custom-theme-otion.png" alt="custom-theme-otion" />
+
+3. custom widget for social media widget
+
+<img src="https://vikas-rtcamp.000webhostapp.com/screenshots/custom-social-profile-link.png" alt="widget" />
+
+
 
 
